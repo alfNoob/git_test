@@ -1,6 +1,6 @@
 {
   "name": "git_test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello Odin!\r i wanna learn to code",
   "main": "index.js",
   "scripts": {
